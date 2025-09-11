@@ -1,30 +1,21 @@
  # Fundamentos da Informática 
 Bem-vindo(a) ao repositório da disciplina Fundamentos da Informática!
-Aqui você encontrará materiais e atividades relacionados ao estudo de Arquitetura de Computadores.
+Aqui você encontrará materiais e atividades relacionados a o que foi aprendido na aula de Fundamentos da Informática.
 
  # Conteúdo
-
- RISC (Reduced Instruction Set Computer)
-	•	Conjunto reduzido de instruções
-	•	Execução rápida (1 ciclo por instrução)
-	•	Baixo consumo de energia
-	•	Exemplos: ARM, RISC-V, PowerPC, MIPS, SPARC
-	•	Ideal para: servidores, redes, sistemas embarcados
-
- CISC (Complex Instruction Set Computer)
-	•	Conjunto complexo de instruções
-	•	Executa tarefas com menos linhas de código
-	•	Maior consumo de energia
-	•	Exemplos: Intel x86, AMD64
-	•	Ideal para: computadores pessoais e aplicações gerais
- 
+ Arquitetura Hardware; 
+ RISC (Reduced Instruction Set Computer);
+ CISC (Complex Instruction Set Computer).
 
  # Objetivo
 
-Registrar e organizar os estudos sobre arquitetura de computadores, mostrando nossa evolução e consolidando o aprendizado na disciplina.
+Registrar e organizar os estudos adquiridos nas aulas, mostrando nossa evolução e consolidando o aprendizado na disciplina.
 
 # Participantes
-	•	Larissa Ribeiro
-	•	Julia Furtado Polycarpo
-	•	Isabella Fernanda da Silva Barbosa
-	•	Alison Gustavo Valli
+    •	Alison Gustavo Valli (1° Ensino Médio);
+	•	Isabella Fernanda da Silva Barbosa (1° Ensino Médio);
+    •	Julia Furtado Polycarpo (1° Ensino Médio);
+	•	Larissa Ribeiro (1° Ensino Médio).
+	
+	
+	
