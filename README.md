@@ -3,9 +3,9 @@ Bem-vindo(a) ao repositório da disciplina Fundamentos da Informática!
 Aqui você encontrará materiais e atividades relacionados a o que foi aprendido na aula de Fundamentos da Informática.
 
  # Conteúdo
- Arquitetura Hardware; 
- RISC (Reduced Instruction Set Computer);
- CISC (Complex Instruction Set Computer).
+ • Arquitetura Hardware; 
+ • RISC (Reduced Instruction Set Computer);
+ • CISC (Complex Instruction Set Computer).
 
  # Objetivo
 
