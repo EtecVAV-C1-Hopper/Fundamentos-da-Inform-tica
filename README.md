@@ -1,4 +1,4 @@
- Fundamentos da Informática 
+ #Fundamentos da Informática 
 Bem-vindo(a) ao repositório da disciplina Fundamentos da Informática!
 Aqui você encontrará materiais e atividades relacionados ao estudo de Arquitetura de Computadores.
 
