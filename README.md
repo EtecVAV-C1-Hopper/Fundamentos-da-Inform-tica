@@ -1,8 +1,8 @@
- #Fundamentos da Informática 
+ # Fundamentos da Informática 
 Bem-vindo(a) ao repositório da disciplina Fundamentos da Informática!
 Aqui você encontrará materiais e atividades relacionados ao estudo de Arquitetura de Computadores.
 
- Conteúdo
+ # Conteúdo
 
  RISC (Reduced Instruction Set Computer)
 	•	Conjunto reduzido de instruções
@@ -19,11 +19,11 @@ Aqui você encontrará materiais e atividades relacionados ao estudo de Arquitet
 	•	Ideal para: computadores pessoais e aplicações gerais
  
 
- Objetivo
+ # Objetivo
 
 Registrar e organizar os estudos sobre arquitetura de computadores, mostrando nossa evolução e consolidando o aprendizado na disciplina.
 
- Participantes
+# Participantes
 	•	Larissa Ribeiro
 	•	Julia Furtado Polycarpo
 	•	Isabella Fernanda da Silva Barbosa
